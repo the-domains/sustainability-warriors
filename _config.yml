@@ -1,0 +1,28 @@
+name: Sustainability Warriors
+favicon: null
+layout_spectrum: 0.1214828179217875
+typography_spectrum: 0.7878895502071828
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.10348621290177107
+  lightness: 0.20305527048185468
+  saturation: 0.3378652576357126
+  rhythmicContrast: 0.7743558157235384
+purpose: []
